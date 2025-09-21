@@ -9,7 +9,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": "*",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -103,7 +103,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "no",
+      "value": "yes",
       "required": true
     },
     "CHAT_BOT": {
